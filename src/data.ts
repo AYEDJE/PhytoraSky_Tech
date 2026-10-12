@@ -83,9 +83,9 @@ export const environmentThreats = [
 // --- Section : Équipe ---
 // Modifie les noms et rôles ici
 export const team = [
-  { first: 'ATSO U',      last: 'Elikplim Seth',    role: "Chef d'équipe · Responsable technique" },
+  { first: 'ATSOU',      last: 'Elikplim Seth',    role: "Chef d'équipe · Responsable technique" },
   { first: 'KEKEH',       last: 'Alcide',           role: 'Responsable Intelligence Artificielle' },
-  { first: 'ATUNELÈSE',   last: 'Josue O.O.O',      role: 'Responsable Données & Logiciels' },
+  { first: 'ATUNLESE',   last: 'Josue O.O.O',      role: 'Responsable Données & Logiciels' },
   { first: 'ATTIOGBE',    last: 'Ulrich',           role: 'Responsable Opérations' },
   { first: 'AYEDJE',      last: 'Kossi Blessing',   role: 'Responsable Systèmes embarqués' },
   { first: 'ANATO',       last: 'Fabrice',          role: 'Responsable Mécanique & Fabrication' },
