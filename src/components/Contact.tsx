@@ -120,6 +120,7 @@ export default function Contact() {
                       { id: 'coop', label: 'Coopérative / Producteur' },
                       { id: 'partner', label: 'Investisseur / Partenaire' },
                       { id: 'ong', label: 'Institution / ONG' },
+                      { id: 'etud', label: 'Etudiant / Elève'},
                     ].map((pill) => (
                       <button
                         key={pill.id}
@@ -191,8 +192,8 @@ export default function Contact() {
                     value={formData.region}
                     onChange={(e) => setFormData({ ...formData, region: e.target.value })}
                   >
-                    <option value="Maritime (Lomé)">Région Maritime (Lomé, Tsévié, Tabligbo)</option>
-                    <option value="Plateaux (Kpalimé / Atakpamé)">Région des Plateaux (Kpalimé, Atakpamé)</option>
+                    <option value="Maritime (Lomé)">Région Maritime (Lomé, Tsévié, Tabligbo, Aného)</option>
+                    <option value="Plateaux (Kpalimé / Atakpamé)">Région des Plateaux (Kpalimé, Atakpamé, Badou, Amlamé)</option>
                     <option value="Centrale (Sokodé)">Région Centrale (Sokodé, Tchamba)</option>
                     <option value="Kara">Région de la Kara (Kara, Bassar, Niamtougou)</option>
                     <option value="Savanes (Dapaong)">Région des Savanes (Dapaong, Mango)</option>
