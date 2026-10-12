@@ -56,7 +56,7 @@ export default function Contact() {
                 <span className="info-icon"><Phone size={18} /></span>
                 <div>
                   <small>Ligne directe & WhatsApp</small>
-                  <strong>+228 90 00 00 00</strong>
+                  <strong>+228 71 82 40 33 / 91 36 20 88</strong>
                 </div>
               </a>
 
@@ -73,7 +73,7 @@ export default function Contact() {
               <h4>Échange rapide sur WhatsApp ?</h4>
               <p>Discutez directement avec notre équipe technique ou planifiez une rencontre.</p>
               <a
-                href={`https://wa.me/22890000000?text=${whatsappText}`}
+                href={`https://wa.me/228 71 82 40 33?text=${whatsappText}`}
                 target="_blank"
                 rel="noreferrer"
                 className="button button-whatsapp"
