@@ -9,17 +9,6 @@ export function Logo() {
     </a>
   );
 }
-export function Logo() {
-  return (
-    <a href="#accueil" className="brand" aria-label="PhytoraSky, accueil">
-      <span className="brand-mark"><Leaf size={23} strokeWidth={2.5} /></span>
-      <span>
-        <strong>PhytoraSky</strong>
-        <small>Innovation agricole</small>
-      </span>
-    </a>
-  );
-}
 
 export function SectionTitle({ eyebrow, title, light = false }: { eyebrow: string; title: string; light?: boolean }) {
   return (
