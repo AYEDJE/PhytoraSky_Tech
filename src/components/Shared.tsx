@@ -1,5 +1,14 @@
-import { Leaf } from 'lucide-react';
-
+export function Logo() {
+  return (
+    <a href="#accueil" className="brand" aria-label="PhytoraSky, accueil">
+      <img src="/logo_equipe.jpeg" alt="Logo de l'équipe" className="brand-logo" />
+      <span>
+        <strong>PhytoraSky</strong>
+        <small>Innovation agricole</small>
+      </span>
+    </a>
+  );
+}
 export function Logo() {
   return (
     <a href="#accueil" className="brand" aria-label="PhytoraSky, accueil">
