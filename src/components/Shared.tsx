@@ -1,7 +1,7 @@
 export function Logo() {
   return (
     <a href="#accueil" className="brand" aria-label="PhytoraSky, accueil">
-      <img src="/logo_equipe.jpeg" alt="Logo de l'équipe" className="brand-logo" />
+      <img src="/logo-equipe.jpeg" alt="Logo de l'équipe" className="brand-logo" />
       <span>
         <strong>PhytoraSky</strong>
         <small>Innovation agricole</small>
