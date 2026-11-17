@@ -178,7 +178,7 @@ export default function Contact() {
                       id="phone"
                       type="tel"
                       required
-                      placeholder="+228 9X XX XX XX"
+                      placeholder="+228 XX XX XX XX"
                       value={formData.phone}
                       onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
                     />
