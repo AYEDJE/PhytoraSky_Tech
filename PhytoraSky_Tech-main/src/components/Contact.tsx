@@ -56,7 +56,7 @@ export default function Contact() {
                 <span className="info-icon"><Phone size={18} /></span>
                 <div>
                   <small>Ligne directe & WhatsApp</small>
-                  <strong>+228 91 36 20 88 / 71 82 40 33</strong> 
+                  <strong>+228 91 36 20 88 </strong> 
                 </div>
               </a>
 
