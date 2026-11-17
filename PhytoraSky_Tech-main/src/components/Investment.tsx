@@ -16,10 +16,6 @@ export default function Investment() {
             Le projet nécessite un investissement dans les équipements, le logiciel et le
             déploiement sur le terrain.
           </p>
-          <div className="budget">
-            <span>Fonds de roulement</span>
-            <strong>1 500 000 FCFA</strong>
-          </div>
         </div>
         <div className="investment-list">
           {investmentItems.map((item) => {
