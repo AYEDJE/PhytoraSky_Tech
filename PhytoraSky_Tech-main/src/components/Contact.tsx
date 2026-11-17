@@ -48,7 +48,7 @@ export default function Contact() {
                 <span className="info-icon"><Mail size={18} /></span>
                 <div>
                   <small>Email</small>
-                  <strong>contact@phytorasky.tg</strong>
+                  <strong>eliatsou541@gmail.com</strong>
                 </div>
               </a>
 
