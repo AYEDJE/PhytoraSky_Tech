@@ -11,7 +11,7 @@ export default function Investment() {
     <section className="section investment-section">
       <div className="container investment-grid">
         <div>
-          <SectionTitle eyebrow="06 · L'investissement" title="Construire les moyens d'un impact durable" />
+          <SectionTitle eyebrow="06 · L'investissement" title="Construire les moyens d'un impact durable." />
           <p className="lead">
             Le projet nécessite un investissement dans les équipements, le logiciel et le
             déploiement sur le terrain.
